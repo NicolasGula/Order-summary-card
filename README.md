@@ -33,8 +33,8 @@ Los usuarios deben ser capaces de:
 
 ### Links
 
-- Solucion URL: [Add solution URL here](https://your-solution-url.com)
-- Sitio URL: [Add live site URL here](https://your-live-site-url.com)
+- Solucion URL: [https://github.com/NicolasGula/Order-summary-card](https://github.com/NicolasGula/Order-summary-card)
+- Sitio URL: [https://nicolasgula.github.io/Order-summary-card/](https://nicolasgula.github.io/Order-summary-card/)
 
 ### Utilice
 
