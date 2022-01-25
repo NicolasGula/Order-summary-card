@@ -88,7 +88,7 @@ $font-p: 12px;
 
 
 
-## Author
+## Autor
 
 - Website - [Nicolas Gula](https://www.your-site.com)
 
